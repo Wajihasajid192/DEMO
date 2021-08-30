@@ -203,7 +203,7 @@ nav  ul.primary-nav{
   margin: .5em;
   cursor: pointer;
 }
-@media only screen and (min-width:768px){
+/*@media only screen and (min-width:768px){
   .mobile-menu, .mobile-menu-exit {
     display: none;
   }
@@ -246,7 +246,7 @@ nav  ul.primary-nav{
     background: #007AF3;
     color: white;
   }
-}
+}*/
 @media only screen and (min-width:1080px)  {
     .container{
       width: 1080px;
