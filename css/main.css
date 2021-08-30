@@ -6,14 +6,14 @@ body {
 
 .navbar {
   background: white;
-  padding: 2em;
+  padding: 1em;
 }
 
 .navbar .logo {
   text-decoration: none;
   font-weight: bold;
   color: black;
-  font-size: 10em;
+  font-size: 3em;
 }
 
 .navbar .logo span {
@@ -97,8 +97,6 @@ section.features-section {
 ul.features-list{
   margin: 0;
   padding-left: .1em;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
 }
 ul.features-list li{
   font-size: 1.1em;
