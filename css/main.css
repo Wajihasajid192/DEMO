@@ -226,8 +226,9 @@ nav  ul.primary-nav{
   }
   .navbar nav a{
     color: black;
-    font-size: 1em;
+    font-size: 2em;
     padding: .1em 1em;
+    margin-left:10px;
   }
     .navbar nav ul.primary-nav{
     margin: 0;
